@@ -4415,6 +4415,28 @@
       "CWE-22"
     ]
   },
+  "crowdsecurity/vpatch-CVE-2026-39808": {
+    "name": "crowdsecurity/vpatch-CVE-2026-39808",
+    "description": "Detects command injection in Fortinet FortiSandbox via crafted jid parameter in tracer-behavior endpoint.",
+    "label": "FortiSandbox - RCE",
+    "behaviors": [
+      "http:exploit"
+    ],
+    "mitre_attacks": [
+      "TA0001:T1190"
+    ],
+    "confidence": 3,
+    "spoofable": 0,
+    "cti": true,
+    "service": "http",
+    "created_at": "2026-06-17T10:36:09",
+    "cves": [
+      "CVE-2026-39808"
+    ],
+    "cwes": [
+      "CWE-78"
+    ]
+  },
   "crowdsecurity/vpatch-CVE-2026-41940": {
     "name": "crowdsecurity/vpatch-CVE-2026-41940",
     "description": "Detects cPanel & WHM authentication bypass (CVE-2026-41940) by identifying a whostmgrsession cookie with a stripped ob segment (no comma separator)",

@@ -128,6 +128,7 @@ appsec-rules:
 - crowdsecurity/vpatch-CVE-2019-5418
 - crowdsecurity/vpatch-CVE-2025-52488
 - crowdsecurity/vpatch-CVE-2025-49132
+- crowdsecurity/vpatch-CVE-2026-86206
 - crowdsecurity/vpatch-CVE-2024-8181
 - crowdsecurity/vpatch-CVE-2026-21643
 - crowdsecurity/vpatch-CVE-2025-47812

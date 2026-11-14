@@ -69,6 +69,7 @@ appsec-rules:
 - crowdsecurity/vpatch-CVE-2023-47218
 - crowdsecurity/vpatch-git-config
 - crowdsecurity/vpatch-CVE-2024-32113
+- crowdsecurity/vpatch-CVE-2026-96654
 - crowdsecurity/vpatch-CVE-2024-3272
 - crowdsecurity/vpatch-CVE-2024-28255
 - crowdsecurity/vpatch-CVE-2024-29824

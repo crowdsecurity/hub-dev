@@ -165,6 +165,7 @@ appsec-rules:
 - crowdsecurity/vpatch-CVE-2026-97229
 - crowdsecurity/vpatch-CVE-2025-2611
 - crowdsecurity/vpatch-CVE-2022-24086
+- crowdsecurity/vpatch-CVE-2026-20131
 - crowdsecurity/vpatch-CVE-2021-32478
 - crowdsecurity/vpatch-CVE-2021-26072
 - crowdsecurity/vpatch-CVE-2025-55748

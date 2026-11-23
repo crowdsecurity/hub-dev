@@ -39,6 +39,7 @@ appsec-rules:
 - crowdsecurity/vpatch-CVE-2026-104935
 - crowdsecurity/vpatch-CVE-2023-6553
 - crowdsecurity/vpatch-CVE-2018-1000861
+- crowdsecurity/vpatch-CVE-2026-0769
 - crowdsecurity/vpatch-CVE-2019-1003030
 - crowdsecurity/vpatch-CVE-2022-22965
 - crowdsecurity/vpatch-CVE-2023-23752
